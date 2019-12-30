@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9def838b-9475-4535-92ad-05539e65f523" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Python Unit Test" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VM94u9dRnEQeOxhWfczBNkwzx4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/model_tests.py" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="blackjack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\virna\PycharmProjects\blackjack\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for model_tests.card_test.test_eq_overide" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="blackjack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;model_tests.card_test.test_eq_overide&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for model_tests.deck_test.test_shuffle" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="blackjack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;model_tests.deck_test.test_shuffle&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for model_tests.deck_test.test_swap" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="blackjack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;model_tests.deck_test.test_swap&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for model_tests.game_test.test_deal" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="blackjack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;model_tests.game_test.test_deal&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for model_tests.game_test.test_hit" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="blackjack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;model_tests.game_test.test_hit&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in model_tests.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="blackjack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\virna\PycharmProjects\blackjack\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/model_tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python tests.Unittests in model_tests.py" />
+      <item itemvalue="Python tests.Unittests for model_tests.game_test.test_deal" />
+      <item itemvalue="Python tests.Unittests for model_tests.game_test.test_hit" />
+      <item itemvalue="Python tests.Unittests for model_tests.deck_test.test_shuffle" />
+      <item itemvalue="Python tests.Unittests for model_tests.card_test.test_eq_overide" />
+      <item itemvalue="Python tests.Unittests for model_tests.deck_test.test_swap" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for model_tests.deck_test.test_swap" />
+        <item itemvalue="Python tests.Unittests for model_tests.card_test.test_eq_overide" />
+        <item itemvalue="Python tests.Unittests for model_tests.deck_test.test_shuffle" />
+        <item itemvalue="Python tests.Unittests for model_tests.game_test.test_hit" />
+        <item itemvalue="Python tests.Unittests for model_tests.game_test.test_deal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9def838b-9475-4535-92ad-05539e65f523" name="Default Changelist" comment="" />
+      <created>1577051909187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577051909187</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577246802455">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="361" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1577246802455" />
+    <state x="481" y="285" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577246789971">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="481" y="285" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1577246789971" />
+    <state x="532" y="256" key="FileChooserDialogImpl" timestamp="1577143568634">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="532" y="256" key="FileChooserDialogImpl/0.0.1500.1000@0.0.1500.1000" timestamp="1577143568634" />
+    <state width="1480" height="261" key="GridCell.Tab.0.bottom" timestamp="1577428116839">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1480" height="261" key="GridCell.Tab.0.bottom/0.0.1500.1000/3000.0.1280.720@0.0.1500.1000" timestamp="1577340403509" />
+    <state width="1480" height="261" key="GridCell.Tab.0.bottom/0.0.1500.1000@0.0.1500.1000" timestamp="1577428116839" />
+    <state width="1480" height="261" key="GridCell.Tab.0.center" timestamp="1577428116839">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1480" height="261" key="GridCell.Tab.0.center/0.0.1500.1000/3000.0.1280.720@0.0.1500.1000" timestamp="1577340403509" />
+    <state width="1480" height="261" key="GridCell.Tab.0.center/0.0.1500.1000@0.0.1500.1000" timestamp="1577428116839" />
+    <state width="1480" height="261" key="GridCell.Tab.0.left" timestamp="1577428116839">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1480" height="261" key="GridCell.Tab.0.left/0.0.1500.1000/3000.0.1280.720@0.0.1500.1000" timestamp="1577340403507" />
+    <state width="1480" height="261" key="GridCell.Tab.0.left/0.0.1500.1000@0.0.1500.1000" timestamp="1577428116839" />
+    <state width="1480" height="261" key="GridCell.Tab.0.right" timestamp="1577428116839">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1480" height="261" key="GridCell.Tab.0.right/0.0.1500.1000/3000.0.1280.720@0.0.1500.1000" timestamp="1577340403509" />
+    <state width="1480" height="261" key="GridCell.Tab.0.right/0.0.1500.1000@0.0.1500.1000" timestamp="1577428116839" />
+    <state width="1480" height="261" key="GridCell.Tab.1.bottom" timestamp="1577428116841">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1480" height="261" key="GridCell.Tab.1.bottom/0.0.1500.1000/3000.0.1280.720@0.0.1500.1000" timestamp="1577340410779" />
+    <state width="1480" height="261" key="GridCell.Tab.1.bottom/0.0.1500.1000@0.0.1500.1000" timestamp="1577428116841" />
+    <state width="1480" height="261" key="GridCell.Tab.1.center" timestamp="1577428116840">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1480" height="261" key="GridCell.Tab.1.center/0.0.1500.1000/3000.0.1280.720@0.0.1500.1000" timestamp="1577340410778" />
+    <state width="1480" height="261" key="GridCell.Tab.1.center/0.0.1500.1000@0.0.1500.1000" timestamp="1577428116840" />
+    <state width="1480" height="261" key="GridCell.Tab.1.left" timestamp="1577428116840">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1480" height="261" key="GridCell.Tab.1.left/0.0.1500.1000/3000.0.1280.720@0.0.1500.1000" timestamp="1577340410778" />
+    <state width="1480" height="261" key="GridCell.Tab.1.left/0.0.1500.1000@0.0.1500.1000" timestamp="1577428116840" />
+    <state width="1480" height="261" key="GridCell.Tab.1.right" timestamp="1577428116840">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1480" height="261" key="GridCell.Tab.1.right/0.0.1500.1000/3000.0.1280.720@0.0.1500.1000" timestamp="1577340410778" />
+    <state width="1480" height="261" key="GridCell.Tab.1.right/0.0.1500.1000@0.0.1500.1000" timestamp="1577428116840" />
+    <state x="446" y="324" key="com.intellij.ide.util.TipDialog" timestamp="1577594742627">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="446" y="324" key="com.intellij.ide.util.TipDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1577594742627" />
+    <state x="416" y="219" width="672" height="678" key="search.everywhere.popup" timestamp="1577247608871">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="416" y="219" width="672" height="678" key="search.everywhere.popup/0.0.1500.1000@0.0.1500.1000" timestamp="1577247608871" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.deck.deck[100]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
