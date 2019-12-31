@@ -1,7 +1,8 @@
-import tkinter
 from tkinter import *
 from tkinter import ttk
 from screens import New_Game_Screen
+from screens import Load_Game_Screen
+from screens import Leaderboard_Screen
 
 class Main_Screen:
     def __init__(self, master):
@@ -35,6 +36,10 @@ class Main_Screen:
 
     def load_game(self):
         self.root.destroy()
+        self.root = Tk()
+        Load_Game_Screen.Load_Game_Screen(self.root, [])
 
     def leaderboard(self):
         self.root.destroy()
+        self.root = Tk()
+        Leaderboard_Screen.Leaderboard_Screen(self.root, [])
