@@ -127,9 +127,10 @@ class Round:
 
 
 class Game:
-    def __init__(self, decks):
+    def __init__(self, decks, name):
         self.decks = decks
         self.deck = Deck(decks)
+        self.name = name
         self.bet = 0
         self.money = starting_money
         self.starting_money = starting_money
